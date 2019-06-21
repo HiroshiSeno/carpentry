@@ -1,0 +1,8 @@
+[submodule "carputils"]
+	path = carputils
+	url = https://HiroshiSeno@bitbucket.org/carpusers/carputils.git
+	ignore = dirty
+[submodule "examples/tutorials"]
+	path = examples/tutorials
+	url = https://HiroshiSeno@bitbucket.org/carpusers/tutorials.git
+	ignore = dirty
