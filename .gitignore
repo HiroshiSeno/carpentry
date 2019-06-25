@@ -1,3 +1,4 @@
 log.txt
 .ipynb_checkpoints
 *.bak
+ipython_notebooks/meshes/*
