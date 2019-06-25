@@ -1,10 +1,9 @@
 version: '2.3'
 services:
   CARPentry:
-    runtime: nvidia
     build:
       context: ./
-    image: carp_container
+    image: carp_container:latest
     container_name: seno_carp
     ports:
       - "3613:8888"
