@@ -1,0 +1,49 @@
+
+
+Setting up ionic models and plugins
+-----------------------------------
+
+Assigning IMPS to tagged regions:  
+
+	Ionic model: MBRDR to tag region(s).
+
+
+
+Building intracellular electric stiffness matrix in standard mode.
+Building intracellular electric stiffness matrix done in 0.068 seconds.
+Building intracellular electric lumped mass matrix in standard mode.
+Building intracellular electric lumped mass matrix done in 0.004 seconds.
+
+
+Affected Stimulus Volumes
+Type           (          Name) [Stimulus  ID]: Vol um^3 ( Vol mm^3 )
+-------------- ---------------- -------------- --------- ------------
+trans I        (S1            ) [Stimulus   0]:    1e+07 (     0.01 )
+
+
+
+
+
+Current Injecting electrodes
+Type           (          Name) [ID]: Total [uA] Density
+-------------- ---------------- ----- ---------- --------------------
+
+
+
+Leading edge trigger event detected for stimulus S1 at 0.000 ms.
+Trailing edge trigger event detected for stimulus S1 at 14.975 ms.
+  
+
+  Electrical Solver Timings:
+  --------------------------
+
+  Elliptic          0.00
+    --RHS           0.00
+    --Solve         0.00
+  Parabolic         2.07
+    --RHS           0.19
+    --Solve         1.88
+  ODE               0.44
+  Purkinje          0.00
+  IO                0.01
+
