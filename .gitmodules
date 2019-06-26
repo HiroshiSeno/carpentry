@@ -6,3 +6,7 @@
 	path = examples/tutorials
 	url = https://HiroshiSeno@bitbucket.org/carpusers/tutorials.git
 	ignore = dirty
+[submodule "nb_carp"]
+	path = nb_carp
+	url = https://github.com/HiroshiSeno/nb_carp.git
+	ignore = dirty
