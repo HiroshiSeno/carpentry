@@ -6,7 +6,7 @@ services:
     image: carp_container:latest
     container_name: seno_carp
     ports:
-      - "3613:8888"
+      - "3612:8888"
     volumes:
       - ./:/notebooks
       - /mnt:/mnt
