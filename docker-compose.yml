@@ -3,10 +3,10 @@ services:
   CARPentry:
     build:
       context: ./
-    image: carp_container:latest
+    image: hbbbhy/carp:latest
     container_name: seno_carp
     ports:
-      - "3612:8888"
+      - "10023:8888"
     volumes:
       - ./:/notebooks
-      - /mnt:/mnt
+      - /data:/data
